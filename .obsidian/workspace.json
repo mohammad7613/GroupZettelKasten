@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature-Notes/Nexus.md",
+                "file": "Fleeting-Note/Initial Fleeting Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nexus"
+              "title": "Initial Fleeting Note"
             }
           }
         ]
@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FleetingNotes/Untitled.md",
+                "file": "Fleeting-Note/Initial Fleeting Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Initial Fleeting Note"
             }
           },
           {
-            "id": "b6050d1e7e8c9dbd",
+            "id": "036fe8285d94a9d3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,12 +183,12 @@
   },
   "active": "4fa802d8a2e079c0",
   "lastOpenFiles": [
-    "Fleeting-Note/Initial Fleeting Note.md",
     "Literature-Notes/Nexus.md",
     "Welcome.md",
-    "Permanent-Note/2025-08-21_12-43-29.md",
     "Template/Literature Note.md",
     "Template/FleetingTemp.md",
+    "Permanent-Note/2025-08-21_12-43-29.md",
+    "Fleeting-Note/Initial Fleeting Note.md",
     "Template",
     "Permanent-Note",
     "Literature-Notes",
