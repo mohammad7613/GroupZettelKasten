@@ -13,15 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Fleeting-Note/Initial Fleeting Note.md",
+=======
+                "file": "Permanent-Note/Story niche.md",
+>>>>>>> 9b820b0 (The story niche)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Initial Fleeting Note"
+=======
+              "title": "Story niche"
+            }
+          },
+          {
+            "id": "c93c6091fed435d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> 9b820b0 (The story niche)
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,9 +200,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fa802d8a2e079c0",
+  "active": "c93c6091fed435d0",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Literature-Notes/Nexus.md",
+=======
+    "Permanent-Note/Story niche.md",
+    "How can we define the evolutionary landscape ?.md",
+    "How do the live items in the landscape communicate ?.md",
+    "What are common core elements of evolutionary principle in any evolutionary landscape?.md",
+    "Permanent-Note/2025-08-21_12-43-29.md",
+    "Permanent-Note/Conscious-Unconscious.md",
+    "Literature-Notes/Nexus.md",
+    "Fleeting-Note/Initial Fleeting Note.md",
+>>>>>>> 9b820b0 (The story niche)
     "Welcome.md",
     "Template/Literature Note.md",
     "Template/FleetingTemp.md",
@@ -209,8 +239,6 @@
     "LiteratureNotes/2025-08-17_21-09-54.md",
     "FleetingNotes/2025-08-17_20-59-12.md",
     "FleetingNotes/Untitled.md",
-    "FleetingNotes/Untitled 1.md",
-    "Untitled.md",
     "Template",
     "Projects/NeuroAIPresentation",
     "PermanentNotes",
