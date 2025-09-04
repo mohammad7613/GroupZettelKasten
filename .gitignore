@@ -1,1 +1,19 @@
+# Ignore Obsidian workspace and UI state (personal layouts)
+.obsidian/workspace.json
+.obsidian/ui.json
+.obsidian/core-plugins-migration.json
+
+# Ignore cache and auto-generated files
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/community-plugins.json
+
+# Ignore all JSON configs in .obsidian (covers future ones)
+.obsidian/*.json
+.obsidian/
+# Ignore temp / system files
+*.log
+*.tmp
+.DS_Store
 *.json
+Thumbs.db
